@@ -6,16 +6,16 @@ Feel free to give feedback or ask web scraping questions in Telegram groups:  [@
 
 ## Programming Libraries
 
-* [Python](https://github.com/lorien/web-scraping/blob/master/python.md)
-* [PHP](https://github.com/lorien/web-scraping/blob/master/php.md)
-* [Ruby](https://github.com/lorien/web-scraping/blob/master/ruby.md)
-* [JavaScript](https://github.com/lorien/web-scraping/blob/master/javascript.md)
-* [Go](https://github.com/lorien/web-scraping/blob/master/golang.md)
+* [Python](https://github.com/tarekrahman3/resource-list-for-web-scraping/blob/master/python.md)
+* [PHP](https://github.com/tarekrahman3/resource-list-for-web-scraping/blob/master/php.md)
+* [Ruby](https://github.com/tarekrahman3/resource-list-for-web-scraping/blob/master/ruby.md)
+* [JavaScript](https://github.com/tarekrahman3/resource-list-for-web-scraping/blob/master/javascript.md)
+* [Go](https://github.com/tarekrahman3/resource-list-for-web-scraping/blob/master/golang.md)
 
 ## Other Things
 
 * [Learning Web Scraping](https://github.com/lorien/learning-web-scraping) - list of articles and books teaching web scraping
-* [Console tools](https://github.com/lorien/web-scraping/blob/master/console_tools.md)
+* [Console tools](https://github.com/tarekrahman3/resource-list-for-web-scraping/blob/master/console_tools.md)
 * [dhamaniasad / HeadlessBrowsers](https://github.com/dhamaniasad/HeadlessBrowsers) - a list of (almost) all headless web browsers in existence
 * [DNS over HTTPS providers](https://github.com/curl/curl/wiki/DNS-over-HTTPS) - list of DNS over HTTPs providers
 
@@ -35,7 +35,7 @@ Largest marketplaces in the world which contain offers from hundreds sellers and
 
 ## How to Contribute to this List
 
-See [Contributing](https://github.com/lorien/web-scraping/blob/master/CONTRIBUTING.md) guide.
+See [Contributing](https://github.com/tarekrahman3/resource-list-for-web-scraping/blob/master/CONTRIBUTING.md) guide.
 
 ## Credits
 
