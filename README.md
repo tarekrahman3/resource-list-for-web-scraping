@@ -2,7 +2,6 @@
 
 The list of tools, programming libraries and web services used for web scraping and data processing.
 
-Feel free to give feedback or ask web scraping questions in Telegram groups:  [@grablab](https://t.me/grablab) (English) and [@grablab_ru](https://t.me/grablab_ru) (Russian).
 
 ## Programming Libraries
 
